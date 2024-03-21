@@ -1,0 +1,13 @@
+import javax.swing.JOptionPane;
+
+public class JavaLibsPractice {
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+        String username = JOptionPane.showInputDialog("Entre com o seu username");
+     String password = JOptionPane.showInputDialog("Digite a sua senha");
+     String codesecurity = JOptionPane.showInputDialog("Pergunta de segurança: qual o nome do seu primeiro melhor amigo?");
+        
+    
+    }   
+}

@@ -1,0 +1,12 @@
+package br.com.senaisp.isadora.secao05;
+
+
+import javax.swing.JOptionPane;
+
+public class Questionario {
+	// TODO Auto-generated method stub
+	
+	//para sim ou não
+	boolean resp = JOptionPane.showConfirmDialog(null, getClass())
+	
+}
